@@ -84,7 +84,7 @@ im=whois.nic.im=ot found=
 in=whois.inregistry.in=NOT FOUND=
 info=whois.afilias.info=NOT FOUND=
 int=whois.iana.org=this server does not have=
-//io=whois.nic.io=available=
+io=whois.nic.io=Domain not found=
 iq=whois.cmc.iq=No Object Found=
 ir=whois.nic.ir=o entries found=
 is=whois.isnic.is=o entries found=
